@@ -91,7 +91,7 @@ Snažíme se dodržovat tato obecná pravidla
 ---
 
 ## Pomocné nástroje pro psaní požadovaného kódu
-TODO: dodělat po otestování a správném nastavení nástrojů
+TODO: dodělat podrobné nastavení nástrojů
 
 - Prittier
 - Stylelink
@@ -140,7 +140,7 @@ Přínosy BEMu:
 - Nutí nás psát mudulární(komponentový) kód.
 
 | Typ třídy  | Pojmenování   |
-|---|---|---|---|---|
+|---|---|
 | Blok  | `.article`   |
 | Element  | `.article__title`   |
 | Modifikátor  | `.article--highlight`   |
