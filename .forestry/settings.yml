@@ -7,7 +7,6 @@ sections:
 - type: document
   path: readme.md
   label: Content
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
