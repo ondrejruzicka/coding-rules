@@ -105,8 +105,8 @@ TODO: dodělat podrobné nastavení nástrojů
 V projektu se snažíme hledat společné prvky napříč stánkami ale i komponentami na jedné stránce. Ušetříme si tak čas a nemusíme vše strkat do BEMu.
 
 ### Pravidla
-- Identifikujeme elemrntární prvky. Nejčastěji je se jedná o jeden HTML tag.
-- Píšeme tak, aby byl vzhled nezívilý na kontextu (zanoření v ostatních prvcích).
+- Identifikujeme elementární prvky. Nejčastěji se jedná o jeden HTML tag.
+- Píšeme tak, aby byl vzhled nezávislý na kontextu (zanoření v ostatních prvcích).
 
 ### Příkady:
 __Typy popisů (mimo obecné nadpisy h1, h2...):__
